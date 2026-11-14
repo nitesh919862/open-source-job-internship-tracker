@@ -1,0 +1,6 @@
+{
+  "name": "Open-Source Job & Internship Tracker",
+  "description": "A full-stack MERN platform for discovering community-vetted jobs and internships, saving openings, tracking career applications, and moderating community submissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
